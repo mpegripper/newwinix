@@ -82,6 +82,9 @@ class WinixAccount:
                 "osType": "android",
                 "osVersion": "29",
                 "mobileLang": "en",
+                "deviceName": "SM-G988B",      # <-- ADD
+                "manufacturer": "samsung",      # <-- ADD
+                "appVersion": "1.0.8",          # <-- ADD
             },
         )
 
